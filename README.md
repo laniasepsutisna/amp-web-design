@@ -4,7 +4,7 @@ Kali ini kita akan belajar web design membuat sebuah website dengan konsep AMP. 
 AMP Project adalah inisiatif sumber terbuka yang bertujuan untuk membuat web lebih baik bagi semua kalangan. Proyek ini memungkinkan pembuatan situs dan iklan dengan performa tinggi, cepat, dan konsisten di berbagai perangkat dan platform distribusi.
 
 Project ini dibuat menggunakan software builder web yaitu Mobirise.
-Demo: https://laniasepsutisna.github.io/amp-web-design/<br>
+<br>Demo: https://laniasepsutisna.github.io/amp-web-design/<br>
 Download: https://github.com/laniasepsutisna/amp-web-design<br>
 
 Didalam project tutorial web desain ini saya membuat web dari nol hingga menjadi web yang bisa diexport kedalam html & css. Sehingga akan memudahkan dalam proses pembuatan web desainnya.
